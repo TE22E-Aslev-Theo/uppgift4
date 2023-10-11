@@ -1,0 +1,83 @@
+
+
+img{
+
+    border: 2px solid salmon;
+    border-radius: 4px;
+    padding-bottom: 18px;
+    width: 100%;
+
+}
+
+h1{
+
+    border: 2px solid salmon;
+    border-radius: 4px;
+    text-align: center;
+    font-size: xx-large;
+    padding: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.i{
+
+    
+    display: grid;
+    grid-template-columns: 15% auto;
+    gap: 0.5rem;
+}
+
+.i > *{
+
+    border: 2p solid salmon;
+    border-radius: 2px;
+
+}
+
+h3{
+
+    text-align: center;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+p{
+
+    text-align: center;
+
+}
+article{
+
+    margin: 0.325rem;
+    border: 2px solid salmon ;
+    border-radius: 2px;
+}
+
+nav{
+
+    border: 2px solid salmon;
+    border-radius: 4px;
+    padding-bottom: 18px;
+
+}
+
+footer{
+
+    border: 2px solid salmon;
+    border-radius: 0.5rem;
+    padding-bottom: 18px;
+    text-align: center;
+
+}
